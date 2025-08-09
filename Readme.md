@@ -14,5 +14,7 @@ URDFの読み込みパスを変えてから実行してください。
 ## 02_move_to_box
 箱の位置をランダムにしたサンプル。学習はPPO
 
+## 03_diffusion_policy
+diffusion policyのサンプル
 
 
