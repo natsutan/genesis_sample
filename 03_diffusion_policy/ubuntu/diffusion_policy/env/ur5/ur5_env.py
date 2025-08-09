@@ -319,7 +319,7 @@ class ur5Env():
                 })
 
 
-        self.scene.step()
+            self.scene.step()
 
 
         # NumPyに変換
